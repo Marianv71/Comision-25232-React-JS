@@ -1,0 +1,50 @@
+[
+{
+    "id": "1",
+    "nombre": "Milanesa con guarnición",
+    "precio": "8.500.-",
+    "categoria": "Minutas",
+    "descripcion": "Milanesa de Ternera con papas fritas o ensalada de lechuga y tomate.",
+    "imagenUrl": "../images/milanesa-con-fritas.jpg"
+},
+{
+    "id": "2",
+    "nombre": "Pollo al horno con papas",
+    "precio": "8.000.-",
+    "categoria": "Minutas",
+    "descripcion": "Pollo al horno (1/4 de pollo) con papas al horno.",
+    "imagenUrl": "../images/pollo-al-horno-con-papas.jpg"
+},
+{
+    "id": "3",
+    "nombre": "Filet de Merluza a la Romana",
+    "precio": "6.500.-",
+    "categoria": "Salón",
+    "descripcion": "Filet de Merluza rebozado con harina y frito, con puré de papas.",
+    "imagenUrl": "../images/filet-merluza-romana.jpg"
+},
+{
+    "id": "4",
+    "nombre": "Costillita de cerdo con puré de manzanas",
+    "precio": "7.500.-",
+    "categoria": "Salón",
+    "descripcion": "Costillita de cerdo (1) a la plancha con puré de manzana verde.",
+    "imagenUrl": "../images/costillitas-de-cerdo-con-pure-de-manzanas.jpg"
+},
+{
+    "id": "5",
+    "nombre": "Fideos spaghetti con salsa",
+    "precio": "6.000.-",
+    "categoria": "Minutas",
+    "descripcion": "Fideos Spaghetti con salsa a elección. Fileto o salsa roja o bolognesa.",
+    "imagenUrl": "../images/spaghettis-con-salsa.jpg"
+},
+{
+    "id": "6",
+    "nombre": "Carré de cerdo con ciruelas",
+    "precio": "7.500.-",
+    "categoria": "Salón",
+    "descripcion": "Carré de cerdo con salsa de ciruelas acompañadas de unas crocantes papas al horno.",
+    "imagenUrl": "../images/carre-cerdo-con-ciruelas,jpg"
+}
+]

@@ -1,0 +1,26 @@
+.product-item a {
+    text-decoration: none;
+    color: inherit;
+    display: block; /* Hacemos que el link tome todo el bloque del article y sea clickeable */    
+}
+
+.product-item p {
+    margin: 0.375rem; /* 6px */
+}
+
+.product-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #ffcc66;
+}
+
+.product-actions {
+    margin-top: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.product-actions .btn .btn-add {
+    margin: 1rem;
+}
